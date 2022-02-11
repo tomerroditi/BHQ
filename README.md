@@ -1,8 +1,4 @@
-This is a README file for Tomer and Ilay's second project in Continous Sensoring of Physiological Parmeters.
-
-#################
 ###BHQ PROJECT###
-#################
 
 Classification problem tackled: Classifing Weekdays vs. Weekends.
 
